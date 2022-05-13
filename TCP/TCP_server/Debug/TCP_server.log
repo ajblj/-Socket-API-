@@ -1,0 +1,5 @@
+﻿  server.cpp
+D:\a_jblj\during\计算机网络\实验\E06_SocketAPI\TCP_server\server.cpp(79,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\a_jblj\during\计算机网络\实验\E06_SocketAPI\TCP_server\server.cpp(79,11): message : 请考虑在格式字符串中使用“%lld”
+D:\a_jblj\during\计算机网络\实验\E06_SocketAPI\TCP_server\server.cpp(79,11): message : 请考虑在格式字符串中使用“%I64d”
+  TCP_server.vcxproj -> D:\a_jblj\during\计算机网络\实验\E06_SocketAPI\TCP_server\Debug\TCP_server.exe
